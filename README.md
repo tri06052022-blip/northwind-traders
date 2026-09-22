@@ -90,7 +90,7 @@ Kết luận: nhóm A đáng được ưu tiên giám sát khả năng cung ứn
 
 Mười khách chiếm khoảng 11.63% trong 86 khách hoạt động nhưng đóng góp gần một nửa doanh thu. Điều này cho thấy mức tập trung đáng theo dõi.
 
-| Các segment RFM được gán theo thứ tự ưu tiên từ trên xuống dựa trên điểm Recency (R), Frequency (F) và Monetary (M), mỗi điểm từ 1 đến 5:
+Các segment RFM được gán theo thứ tự ưu tiên từ trên xuống dựa trên điểm Recency (R), Frequency (F) và Monetary (M), mỗi điểm từ 1 đến 5:
 
 | RFM Segment | Quy tắc phân nhóm | Số khách |
 |---|---|---:|
@@ -99,7 +99,10 @@ Mười khách chiếm khoảng 11.63% trong 86 khách hoạt động nhưng đ�
 | Potential Loyalists | R ≥ 4 và F ≥ 2 | 13 |
 | At Risk | R ≤ 2, F ≥ 3 và M ≥ 3 | 11 |
 | Hibernating | R ≤ 2 và F ≤ 2 | 18 |
-| Others | Các trường hợp còn lại | 18 | |
+| Others | Các trường hợp còn lại | 18 |
+
+Danh sách ưu tiên cần chú ý theo tiêu chí giá trị cao nhưng đã lâu chưa phát sinh đơn mới (R ≤ 2 và M ≥ 4) gồm 4 khách hàng, cần được ưu tiên liên hệ và chăm sóc để giảm thiểu rủi ro mất khách.
+
 
 
 ### 5.4. Đóng góp và mức chiết khấu khác nhau giữa nhân viên
